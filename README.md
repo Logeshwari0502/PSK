@@ -62,7 +62,7 @@ plt.show()
 # Output Waveform
 ![WhatsApp Image 2025-04-28 at 19 49 52_46be9bfe](https://github.com/user-attachments/assets/ab3ba033-1037-48c7-b393-cd78406377e4)
 # Hardware experiment output waveform.
+![PSK NEW](https://github.com/user-attachments/assets/9f2c7fef-2c5d-4683-9af2-831e607f3362)
 
-hub.com/user-attachments/assets/a0fa54a8-18ff-4854-afbf-bf61f6e00a27)
 ## RESULT
   THUS THE PSK (Phase Shift Keying) IS PERFORMED USING PYTHON
